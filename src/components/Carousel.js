@@ -16,7 +16,7 @@ class Carousel extends Component {
                     title: 'Newport News Chess Club',
                     subTitle: 'Community chess organization I am restarting',
                     imgSrc: medium,
-                    link: 'https://www.chess.com/club/newport-news-chess-club',
+                    link: 'https://medium.com/',
                     selected: false
                 },
                 {
@@ -29,10 +29,10 @@ class Carousel extends Component {
                 },
                 {
                     id: 2,
-                    title: 'Personal Training',
-                    subTitle: 'Freelance personal training, NASM Certified //dummy link, will link to service request form',
+                    title: 'Public Telegram Link',
+                    subTitle: 'VC Dao public telegram',
                     imgSrc: telegram,
-                    link: 'https://www.instagram.com/pureposey/',
+                    link: 'https://t.me/vc_dao',
                     selected: false
                 },
                 {
@@ -40,7 +40,7 @@ class Carousel extends Component {
                     title: 'Personal Training',
                     subTitle: 'Freelance personal training, NASM Certified //dummy link, will link to service request form',
                     imgSrc: telegram,
-                    link: 'https://www.instagram.com/pureposey/',
+                    link: 'https://t.me/vc_dao',
                     selected: false
                 },
             ]
