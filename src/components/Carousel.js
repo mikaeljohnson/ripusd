@@ -13,10 +13,10 @@ class Carousel extends Component {
             items: [
                 {
                     id: 0,
-                    title: 'Newport News Chess Club',
-                    subTitle: 'Community chess organization I am restarting',
+                    title: 'VC Dao Medium',
+                    subTitle: 'Medium page for information about our venture',
                     imgSrc: medium,
-                    link: 'https://medium.com/',
+                    link: 'https://medium.com/@VCDAO',
                     selected: false
                 },
                 {
