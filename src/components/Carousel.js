@@ -13,7 +13,7 @@ class Carousel extends Component {
             items: [
                 {
                     id: 0,
-                    title: 'VC Dao Medium',
+                    title: 'RIP USD Medium',
                     subTitle: 'Medium page for information about our venture',
                     imgSrc: medium,
                     link: 'https://medium.com/@VCDAO',
@@ -21,16 +21,16 @@ class Carousel extends Component {
                 },
                 {
                     id: 1,
-                    title: 'Twitter Link',
-                    subTitle: 'Link to dao twitter account',
+                    title: 'RIP USD Twitter',
+                    subTitle: 'Link to RIP USD twitter account',
                     imgSrc: twitter,
                     link: 'https://twitter.com/VC_DAO',
                     selected: false
                 },
                 {
                     id: 2,
-                    title: 'Public Telegram Link',
-                    subTitle: 'VC Dao public telegram',
+                    title: 'RIP USD Public Telegram Link',
+                    subTitle: 'RIP USD public telegram',
                     imgSrc: telegram,
                     link: 'https://t.me/vc_dao',
                     selected: false

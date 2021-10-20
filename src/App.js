@@ -15,7 +15,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      title: 'VC-Dao',
+      title: 'RIP USD',
       headerLinks: [
         { title: 'Home', path: '/'}
         // { title: 'About Me', path: '/about'},
@@ -23,9 +23,9 @@ class App extends Component {
         // { title: 'Contact Me', path: '/contact'}
       ],
       home: {
-        title: 'VC Dao',
+        title: 'RIP USD',
         subTitle: 'Something grand is happening here soon...',
-        text: 'VC meets Crypto meets DAO'
+        text: 'Coin collecting meets NFTs'
       }
       // ,
       // about: {
@@ -53,7 +53,7 @@ class App extends Component {
       <Router>
         <Container className="p-0" fluid={true}>
           <Navbar className="border-bottom" bg="transparent" expand="lg">
-            <NavbarBrand>VC Dao</NavbarBrand>
+            <NavbarBrand>RIP USD</NavbarBrand>
             <NavbarToggle className="border-0" aria-controls="navbar-toggle"/>
             <Navbar.Collapse id="navbar-toggle">
               {/* <Nav className="ml-auto">
